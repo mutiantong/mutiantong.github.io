@@ -51,3 +51,11 @@ gem install jekyll bundler
 
 
 
+本地运行博客并可以让局域网访问
+
+```bash
+jekyll serve -w --host=0.0.0.0
+```
+
+
+
